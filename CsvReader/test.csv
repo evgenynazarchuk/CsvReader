@@ -1,0 +1,4 @@
+string,int,intnull,uint,uintnull,long,longnull,ulong,ulongnull,float,floatnull,double,doublenull,decimal,decimalnull,bool,boolnull
+s1,1,1,2,2,3,3,4,4,5.1,5.1,6.1,6.1,7.1,7.1,true,false
+s2,1,,2,,3,,4,,5.1,,6.1,,7.1,,true,
+,1,,2,,3,,4,,5.1,,6.1,,7.1,,false,
