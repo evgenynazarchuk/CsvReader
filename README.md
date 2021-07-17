@@ -1,6 +1,6 @@
 # CsvReader
 
-#H2 Sample
+Sample file: Program.cs
 
 ```c#
 var personReader = new CsvReader<Person>("TestData/person.csv");
